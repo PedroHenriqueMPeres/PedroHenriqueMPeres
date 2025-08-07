@@ -55,13 +55,13 @@
 ## 🌐 Onde me encontrar
 
 <p align="center">
-  <a href="mailto:seu-email@gmail.com">
+  <a href="pedro.h.peres@aluno.senai.br">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/seu-linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/pedrohenrique" target="_blank">
+  <a href="https://github.com/PedroHenriqueMPeres" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -69,7 +69,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pedrohenrique&theme=radical&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PedroHenriqueMPeres&theme=radical&no-frame=true&margin-w=10" />
 </p>
 
 ---
