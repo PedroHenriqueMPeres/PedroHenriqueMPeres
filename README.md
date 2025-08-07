@@ -1,4 +1,4 @@
-<!-- Banner -->
+<!-- Banner de boas-vindas -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=200&section=header&text=Bem-vindo%20ao%20meu%20GitHub!&fontSize=35&fontColor=ffffff" />
 </p>
@@ -13,23 +13,23 @@
 
 ## 🧠 Sobre mim
 
-- 🎓 Estudante de **Desenvolvimento de Sistemas**
-- 💡 Foco em projetos reais, com código limpo e funcional
-- 🚀 Em constante evolução e aprendizado
-- 🤝 Aberto a colaborações e freelas
+- 🎓 Estudante de **Desenvolvimento de Sistemas** no SENAI
+- 💡 Focado em criar soluções simples e eficazes
+- 🔁 Em constante aprendizado de novas tecnologias
+- 🤝 Buscando oportunidades de projetos, estágios ou colaboração
 
 ---
 
 ## 🛠️ Tecnologias que uso
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub" />
 </p>
 
 ---
@@ -45,21 +45,20 @@
 
 ## 💼 Projetos em Destaque
 
-| Projeto | Tecnologias | Descrição |
-|--------|-------------|-----------|
-| [🔗 Sistema de Eventos](#) | React, Node.js | Plataforma para gerenciamento de eventos |
-| [🔗 Portfólio Pessoal](#) | HTML, CSS, JS | Meu site pessoal com projetos e contatos |
+| Projeto                     | Tecnologias     | Descrição                                   |
+|----------------------------|------------------|----------------------------------------------|
+| [🔗 Sistema de Eventos](#) | React, Node.js   | Sistema completo para cadastro e controle de eventos |
+| [🔗 Portfólio Pessoal](#)  | HTML, CSS, JS    | Meu site pessoal com projetos e contatos     |
+
+> Substitua os links acima pelos seus repositórios reais.
 
 ---
 
 ## 🌐 Onde me encontrar
 
 <p align="center">
-  <a href="pedro.h.peres@aluno.senai.br">
+  <a href="mailto:pedro.h.peres@aluno.senai.br">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/seu-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/PedroHenriqueMPeres" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
