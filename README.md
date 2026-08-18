@@ -38,7 +38,7 @@
 
 | Projeto                     | Tecnologias     | Descrição                                   |
 |----------------------------|------------------|----------------------------------------------|
-| [🔗 Sistema de Eventos](#) | React, Node.js   | Sistema completo para cadastro e controle de eventos |
+| [🔗 Sistema de Eventos]([#](https://github.com/PedroHenriqueMPeres/Bibliotec.git)) | React, Node.js   | Sistema completo para cadastro e controle de eventos |
 | [🔗 Portfólio Pessoal](#)  | HTML, CSS, JS    | Meu site pessoal com projetos e contatos     |
 
 > Substitua os links acima pelos seus repositórios reais.
