@@ -13,7 +13,7 @@
 
 ## 🧠 Sobre mim
 
-- 🎓 Estudante de **Desenvolvimento de Sistemas** no SENAI
+- 🎓 Técnico em **Desenvolvimento de Sistemas** pelo SENAI
 - 💡 Focado em criar soluções simples e eficazes
 - 🔁 Em constante aprendizado de novas tecnologias
 - 🤝 Buscando oportunidades de projetos, estágios ou colaboração
