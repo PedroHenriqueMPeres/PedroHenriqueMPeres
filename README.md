@@ -44,7 +44,7 @@
 | [🔗 Event](https://github.com/PedroHenriqueMPeres/ProjectEvent-.git) | Sistema de cadastro de Eventos |
 | [🔗 Filmoteca](https://github.com/PedroHenriqueMPeres/Projeto-Filmoteca.git) | Sistema de cadastro de Filmes |
 | [🔗 CPP](https://github.com/PedroHenriqueMPeres/Projeto-CPP.git) | Sistema de passagens aereas |
-| [🔗 CPP]() |
+| [🔗 VenueWork](https://github.com/PedroHenriqueMPeres/VenueWork---Final-Project.git) | Plataforma de unificação de ferramentas empresariais |
 
 ---
 
