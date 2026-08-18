@@ -38,10 +38,13 @@
 
 | Projeto                     | Tecnologias     | Descrição                                   |
 |----------------------------|------------------|----------------------------------------------|
-| [🔗 Sistema de Eventos](https://github.com/PedroHenriqueMPeres/Bibliotec.git) | React, Node.js   | Sistema completo para cadastro e controle de eventos |
-| [🔗 Portfólio Pessoal](#)  | HTML, CSS, JS    | Meu site pessoal com projetos e contatos     |
-
-> Substitua os links acima pelos seus repositórios reais.
+| [🔗 Bibliotec](https://github.com/PedroHenriqueMPeres/Bibliotec.git) | Sistema completo para cadastro e controle de Livros |
+| [🔗 Portfólio Pessoal](https://github.com/PedroHenriqueMPeres/Portifolio_PH.git) | Meu site pessoal com projetos e contatos |
+| [🔗 FindCEP](https://github.com/PedroHenriqueMPeres/FindCEP.git) | Sistema de rastreio por CEP |
+| [🔗 Event](https://github.com/PedroHenriqueMPeres/ProjectEvent-.git) | Sistema de cadastro de Eventos |
+| [🔗 Filmoteca](https://github.com/PedroHenriqueMPeres/Projeto-Filmoteca.git) | Sistema de cadastro de Filmes |
+| [🔗 CPP](https://github.com/PedroHenriqueMPeres/Projeto-CPP.git) | Sistema de passagens aereas |
+| [🔗 CPP]() |
 
 ---
 
